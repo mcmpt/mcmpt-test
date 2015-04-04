@@ -1,0 +1,8 @@
+{
+  "modid": "fakeMod1",
+  "name": "Fake Mod 1",
+  "description": "This is a fake mod made by nxsupert to test mcmpt. Please ignore.",
+  "credits": "Created by the MCMPT team",
+  "url": "https://github.com/mcmpt",
+  "authors": [ "nxsupert", "mcmpt", "blah", "blah2" ]
+}
